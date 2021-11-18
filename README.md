@@ -2,10 +2,10 @@
 
 ## Screen shots
 
-<img src="https://i.ibb.co/HFVnZJ3/3.jpg"  width="200" height="400"/>
-<img src="https://i.ibb.co/KN57y76/2.jpg" width="200" height="400"/>
-<img src="https://i.ibb.co/dPvztfN/1.jpg" width="200" height="400"/>
-<img src="https://i.ibb.co/WWKyQVG/4.jpg" width="200" height="400"/>
+<img src="https://raw.githubusercontent.com/MahmoudMattar/uber-clone-yt/master/assets/screenShots/3.jpg"  width="200" height="400"/>
+<img src="https://raw.githubusercontent.com/MahmoudMattar/uber-clone-yt/master/assets/screenShots/2.jpg" width="200" height="400"/>
+<img src="https://raw.githubusercontent.com/MahmoudMattar/uber-clone-yt/master/assets/screenShots/1.jpg" width="200" height="400"/>
+<img src="https://raw.githubusercontent.com/MahmoudMattar/uber-clone-yt/master/assets/screenShots/4.jpg" width="200" height="400"/>
 
 <!-- ![Home](https://i.ibb.co/HFVnZJ3/3.jpg) -->
 <!-- ![eCommerce](https://i.ibb.co/dPvztfN/1.jpg) -->
